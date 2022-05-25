@@ -1,4 +1,4 @@
-# pedometer
+# dd_pedometer
 
 [![pub package](https://img.shields.io/pub/v/pedometer.svg)](https://pub.dartlang.org/packages/pedometer)
 
